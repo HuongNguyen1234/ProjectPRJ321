@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 22, 2018, 8:48:14 PM
+    Author     : victor van dog
+*/
+
+#map{
+    width: 300px;
+    height: 900px  ;
+
+
+}
+.table
+{
+    background-color: orange;
+    border: 3px solid black;
+    text-align: left;
+}
+th, td{
+
+    border: 3px solid black;
+}
+
+.div-2{
+  
+  
+ 
+    background-color: khaki;
+   
+}
+.table2{
+    width: 100%;
+    
+}

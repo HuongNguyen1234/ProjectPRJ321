@@ -1,0 +1,10 @@
+SMAP
+body_tag.java
+JSP
+*S JSP
+*F
++ 0 body.tag
+WEB-INF/tags/body.tag
+*L
+5,33:46
+*E

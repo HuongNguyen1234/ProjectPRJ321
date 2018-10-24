@@ -1,0 +1,10 @@
+SMAP
+wrapper_tag.java
+JSP
+*S JSP
+*F
++ 0 wrapper.tag
+WEB-INF/tags/wrapper.tag
+*L
+5,299:70
+*E

@@ -1,0 +1,10 @@
+SMAP
+footer_tag.java
+JSP
+*S JSP
+*F
++ 0 footer.tag
+WEB-INF/tags/footer.tag
+*L
+5,14:46
+*E

@@ -1,0 +1,10 @@
+SMAP
+header_tag.java
+JSP
+*S JSP
+*F
++ 0 header.tag
+WEB-INF/tags/header.tag
+*L
+5,211:46
+*E
